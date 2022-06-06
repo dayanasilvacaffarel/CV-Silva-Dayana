@@ -1,0 +1,23 @@
+.negrita {
+    font-weight: 700;}
+
+body {
+    font-family: 'Joan', serif;
+    background-color: #DCE2E1;}
+
+h1,h2 {
+    background-color: #53646b;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;}
+
+header {
+    text-align: center;}
+
+footer{
+    background-color: #53646b;
+text-align: center;}    
+
+img{
+    max-width: 200 px;
+    max-height: 200px;
+}
